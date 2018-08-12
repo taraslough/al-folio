@@ -10,23 +10,23 @@ years: [1956, 1950, 1935, 1905]
 <h4> revision invited</h4>
 
 <h4 class="year">{{2018}}</h4>
-Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen.  Revise and resubmit, <i>American Journal of Political Science</i>. <a href="https://www.dropbox.com/s/584fge8b1v1phyd/Deforest_paper.pdf?dl=0"  target="_blank"> [paper]</a>
-<a href="https://www.dropbox.com/s/dmhytx47fo50z0b/Deforest_Appendix.pdf?dl=0"  target="_blank"> [appendix]</a>
+Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen.  Revise and resubmit, <i>American Journal of Political Science</i>. <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
+<a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
 
-"A Dynamic Model of Primaries." With Erin York and Michael Ting. Revise and resubmit, <i>Journal of Politics</i>.<a href="https://www.dropbox.com/s/di1mzf7k34izawl/DP.pdf?dl=0
+"A Dynamic Model of Primaries." With Erin York and Michael Ting. Revise and resubmit, <i>Journal of Politics</i>.<a href="https://taraslough.github.io/assets/pdf/DP.pdf
 "  target="_blank"> [paper]</a>
 
 
 <h4> under review</h4>
 <h4 class="year">{{2018}}</h4>
-"Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss. (first-authored) <a href="https://www.dropbox.com/s/oz35y68dp7gsk9a/Haiti_paper.pdf?dl=0
+"Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss. (first-authored) <a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf
 "  target="_blank"> [paper]</a>
-<a href="https://www.dropbox.com/s/i1krsro3tu5q2rs/Haiti_appendix.pdf?dl=0
+<a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf
 "  target="_blank"> [appendix]</a>
 
-"After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting.<a href="https://www.dropbox.com/s/15athllsvoxzj88/RtL_paper.pdf?dl=0
+"After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting.<a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
 "  target="_blank"> [paper]</a>
-<a href="https://www.dropbox.com/s/3jaxdt1visirkje/RtL_appendix.pdf?dl=0
+<a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
 "  target="_blank"> [appendix]</a>
 
 <h4> working papers</h4>
@@ -65,12 +65,11 @@ Public Policy Under Limited State Capacity: Evidence from Deforestation Control 
 <h4>articles</h4>
 <h4 class="year">{{2015}}</h4>
 "Light for All? Evaluating Brazil’s Rural Electrification Progress, 2000-2010." <i>Energy Policy</i>, 86(C): 315-327. With Johannes Urpelainen and Joonseok Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0301421515300124#f0030"  target="_blank">[gated]</a>
-<a href="https://www.dropbox.com/s/ehvns8z0snjang8/EP_2015.pdf?dl=0"  target="_blank">[pdf]</a>
 <h4 class="year">{{2013}}</h4>
-"Electronic Medical Records System for Palliative Care in Low-Resource Settings." 2013. BioMed Central Palliative Care, 12(31). With Kamal Shah, P. Teresa Yeh, Athanase Kiromera, Suave Gombwa, Rebecca Richards-Kortum, and Maria Oden.<a href="https://www.ncbi.nlm.nih.gov/pubmed/23941694"  target="_blank"> [gated]</a> <a href="https://www.dropbox.com/s/1fkbikpnkzc51wa/BMCPC_2013.pdf?dl=0"  target="_blank"> [pdf]</a>
+"Electronic Medical Records System for Palliative Care in Low-Resource Settings." 2013. BioMed Central Palliative Care, 12(31). With Kamal Shah, P. Teresa Yeh, Athanase Kiromera, Suave Gombwa, Rebecca Richards-Kortum, and Maria Oden.<a href="https://www.ncbi.nlm.nih.gov/pubmed/23941694"  target="_blank"> [gated]</a>
 
 
-"Design, Evaluation, and Dissemination of a Plastic Syringe Clip to Improve Dosing Accuracy of Liquid Medication." 2013. Annals of Biomedical Engineering, 41(9). With with Garrett Spiegel, Cindy Dinh, Amanda Gutierrez, Julia Lukomnik, Benjamin Lu, Kamal Shah, P. Teresa Yeh, Yvette Mirabal, Lauren Vestewig Gray, Stephanie Marton, Michelle Adler, Gordon E. Schutze, Hadley Wickham, Maria Oden, and Rebecca Richards-Kortum.<a href="https://link.springer.com/content/pdf/10.1007/s10439-013-0780-z.pdf"  target="_blank"> [gated]</a> <a href="https://www.dropbox.com/s/w13xxtuch6xsbxz/ABE_2013.pdf?dl=0"  target="_blank"> [pdf]</a>
+"Design, Evaluation, and Dissemination of a Plastic Syringe Clip to Improve Dosing Accuracy of Liquid Medication." 2013. Annals of Biomedical Engineering, 41(9). With with Garrett Spiegel, Cindy Dinh, Amanda Gutierrez, Julia Lukomnik, Benjamin Lu, Kamal Shah, P. Teresa Yeh, Yvette Mirabal, Lauren Vestewig Gray, Stephanie Marton, Michelle Adler, Gordon E. Schutze, Hadley Wickham, Maria Oden, and Rebecca Richards-Kortum.<a href="https://link.springer.com/content/pdf/10.1007/s10439-013-0780-z.pdf"  target="_blank"> [gated]</a>
 
 <h3> other writings</h3>
 
