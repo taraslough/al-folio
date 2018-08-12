@@ -7,13 +7,13 @@ years: [1956, 1950, 1935, 1905]
 ---
 <h3> working papers, works in progress</h3>
 
-<h4> revise and resubmit</h4>
+<h4> revision invited</h4>
 
 <h4 class="year">{{2018}}</h4>
 Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen.  Revise and resubmit, <i>American Journal of Political Science</i>. <a href="https://www.dropbox.com/s/584fge8b1v1phyd/Deforest_paper.pdf?dl=0"  target="_blank"> [paper]</a>
 <a href="https://www.dropbox.com/s/dmhytx47fo50z0b/Deforest_Appendix.pdf?dl=0"  target="_blank"> [appendix]</a>
 
-"A Model of Dynamic Primaries." With Erin York and Michael Ting. Revise and resubmit, <i>Journal of Politics</i>.<a href="https://www.dropbox.com/s/di1mzf7k34izawl/DP.pdf?dl=0
+"A Dynamic Model of Primaries." With Erin York and Michael Ting. Revise and resubmit, <i>Journal of Politics</i>.<a href="https://www.dropbox.com/s/di1mzf7k34izawl/DP.pdf?dl=0
 "  target="_blank"> [paper]</a>
 
 
