@@ -1,55 +1,27 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: justice and the state
+description: Experiment
+img: /assets/img/IMG_0011.JPG
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Maintaining social order through formal justice systems cuts directly to the core of "what states do." Yet in many contexts, high crime rates, low trust in justice system institutions, and/or widespread forms of human rights violations suggest failures of formal justice sector institutions spanning from prisons, courts, and police. My work on the justice sector seeks to: (1) theorize the institutional causes of such outcomes and (2) use interventions aimed to improve outcomes to illuminate these dynamics.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+<h3> Legal Assistance and Pretrial Detention in Haiti </h3>
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/lab.jpg" alt="" title="example image"/>
+      <img class="col one left" src="{{ site.baseurl }}/assets/img/IMG_3344.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/judges.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
+    Offices and case files of detainees in Haitian Courts of First Instance, 2015.
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+In Haiti, 8,000 individuals -- over 70% of the prison population -- are held in illegal prolonged pretrial detention, meaning that they have not yet been tried and their confinement exceeds constitutional time limits for pretrial detention. While the situation in Haiti is dire, such illegal pretrial detention represents the largest form of illegal detention globally and is not well explained by existing theories of human rights violation.
 
+In contrast to repression-based logics for human rights violation, Chris Fariss and I propose a misgovernance logic for this form of detention. We argue that moral hazard problems of justice system actors and the institutional structure of the courts of first instance exacerbate constraints on the courts' ability to process and investigate cases, leading to backlogs and overruns of constitutional time limits.  
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+We test the implications of this theory through 88 semi-structured interviews across five Haitian court jurisdictions and novel randomized-rollout experiment in collaboration with USAID that provided free legal assistance to the illegally detained. The legal assistance targeted low-level bureaucrats within the Courts of First Instance. We find no evidence of an intent to detain these individuals. Further, we estimate that cases advance in proportion to the dosage of legal assistance received and that legal assistance reduces the probability that an individual remains detained after 9 months. To the extent that an intervention targeted at low-level bureaucrats is effective in accelerating cases, the evidence supports our argument about misgovernance and rights.
 
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+Read the <strong> paper </strong> and <strong> appendix </strong>.

@@ -1,55 +1,21 @@
 ---
 layout: page
-title: Project 4
-description: another without an image
-img:
+title: models of intraparty governance
+description: Formal models
+img: /assets/img/IMG_0051.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+<div>
+    <img  src="{{ site.baseurl }}/assets/img/primary_laws2.jpg" alt="" title="dynamic primaries" height="375" width="750"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Laws regulating the use of primary elections and patterns of decentralized primary adoption in 18 Spanish- and Portuguese-speaking Latin American countries. From "A Model of Dynamic Primaries."
 </div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+<p>
+In two papers, I examine how the strategies adopted by political parties change from election to election. These papers employ dynamic formal models of intraparty governance to explain primary adoption and platform (re)positioning, respectively.
+</p>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+ A paper, "A Dynamic Model of Primaries" with Michael Ting and Erin York, examines the adoption of primaries in contexts in which parties adopt primaries in a decentralized manner. The graph above shows that in many democracies, primary adoption is a party-level (decentralized) decision. Further, parties choose whether or not to hold primaries election by election.
+Why do parties adopt primaries in these environments? To explain these patterns in a dynamic environment, we adopt an infinite horizon model of primary adoption that explores a central trade off: primaries produce more electable candidates but losing a primary deprives party elites of private goods (rents) and future elite status. We show that parties adopt primaries when electorally disadvantaged and when polarization increases.
 
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+A second paper, "After Defeat: Governing Party Response to Electoral Loss" with Yotam Margalit and Michael Ting studies how governing parties in advanced industrialized democracies respond to loss of power (governing status). In empirical analyses, we find that parties disproportionately shift to the extreme after losing power. We find suggestive evidence that these shifts are mediated by the size of the party leadership selectorate. To organize these empirical findings, we introduce a dynamic model of party leadership selection and platform positioning. We analyze equilibrium of the model as a Markov chain. The long-run distribution of the Markov chain allows us to simulate the probability of platform shifts in response to electoral events (loss of power). The theoretical results generally align with empirical findings under plausible parameter settings.

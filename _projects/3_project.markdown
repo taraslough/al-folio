@@ -1,56 +1,40 @@
 ---
 layout: page
-title: Project 3
-description: a project that redirects to another website
-img:
-redirect: https://unsplash.com
+title: natural resource governance
+description: Metaketa-III
+img: /assets/img/haiti_panorama.jpg
 ---
+<h3> Work on the Amazon </h3>
+Deforestation in the Amazon represents one of the most salient manifestations of uneven state capacity in Latin America. Two projects in the Amazon in Brazil and Peru examine the manifestations of state-citizen interactions in the region.
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+First, I examine temporal and spatial variation in the Brazilian state’s enforcement capacity empirically in a paper with Johannes Urpelainen. Employing a difference-in-difference research design with Brazil’s Priority Municipalities ties program, we examine spillover effects in areas outside priority municipalities. Using remote-sensed satellite data on forest loss over almost a decade, we find that in areas proximate to targeted municipalities, deforestation decreased due to the program, but as distance from the border increases, deforestation increases. The findings suggest that capacity emerges in the context of a strategic relationship between a state and its subjects (here deforesters).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+Read the [paper] and [appendix].
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/satellite_1.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/satellite_2.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/satellite_3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
+    Remote-sensed maps of forest loss in the Peruvian Amazon used in community trainings. Courtesy of Rainforest Foundation.
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+Second, in a field experiment in the Peruvian Amazon with Jacob Kopas, Johannes Urpelainen, and Rainforest Foundation US, I examine the effects of bringing this type of forest loss data to the communities most immediately impacted. While substantial investments have been made in satellite monitoring to detect deforestation events in the region, much of this data remains inaccessible to "first responders,'' namely communities in the Amazon and, to a lesser extent, the officials tasked with prosecuting these crimes. We ask two questions:
+<li>
+To what extent does providing this information to the communities most threatened by deforestation and facilitating community monitoring allow communities to respond to such threats and combat continued deforestation?
+</li>
+<li>
+Does facilitating contact between affected communities and government authorities promote increased legal action against offenders?
+</li>
+
+<p>
+See
+<a href= "http://egap.org/content/community-monitoring-and-technology-transfer-prevent-deforestation-field-experiment-peruvian" target="_blank">project page</a>.
+</p>
 
 
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+<h3> Metaketa-III </h3>
+<p>
+The Peru project represents one of six harmonized community monitoring interventions in Metaketa-III. I joined the steering committee overseeing the six projects in October 2017. For more information see the <a href= "http://egap.org/metaketa/metaketa-iii-natural-resource-governance" target="_blank">project page</a>.
+</p>

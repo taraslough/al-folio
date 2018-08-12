@@ -1,55 +1,27 @@
 ---
 layout: page
-title: Project 6
-description: a project with no image
-img:
+title: policy engagement
+description: Collaboration, writing, & consulting
+img: /assets/img/IMG_0054.JPG
 ---
+<p>
+My research is enriched by collaboration and consultation with government agencies and NGOs. It has been my privilege to collaborate on research projects with the following organizations, in chronological order:
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<li> <a href="https://www.usaid.gov/"> <b> USAID </b> </a></li>
+<li> <a href="http://www.rainforestfoundation.org/"> <b> Rainforest Foundation US </b> </a></li>
+<li> <a href="https://orpio.wordpress.com/"> <b> Organización Regional de los Pueblos Indígenas del Oriente (Peru) </b> </a></li>
+<li> <a href="http://www.funcionpublica.gov.co/"> <b> Departamento Administrativo de la Función Pública (Colombia) </b> </a></li>
+<li> <a href="http://www.dps.gov.co/Paginas/Inicio.aspx"> <b> Prosperidad Social (Colombia) </b> </a></li>
+<li> <a href="https://www.dnp.gov.co/DNPN/Paginas/default.aspx"> <b> Departamento Nacional de Planeación (Colombia) </b> </a></li>
+</p>
+<p>
+Additionally, I have consulted for:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<li> <a href="https://www.usaid.gov/"> <b> USAID </b> </a></li>
+<li> <a href="https://www.gov.uk/government/organisations/department-for-international-development"> <b> DFID </b> </a></li>
+<li> <a href="https://www.worldbank.org/"> <b> World Bank </b> </a></li>
+</p>
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+<p>
+My policy writings can be found <a href="al-folio/projects/research/">here</a>.
+</p>

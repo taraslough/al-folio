@@ -1,23 +1,23 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Tara </strong>Slough
+description: <a href="">Ph.D. Candidate, Columbia University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: bench_photo.jpg
+  address:
 
-news: true
+
+news: false
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. Candidate in Political Science at Columbia University. I study comparative politics, quantitative methods, and political economy (formal theory).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I write on the political economy of development. My dissertation focuses on the distributive politics of the bureaucracy with application to low- and middle-income democracies. I have conducted fieldwork in Argentina, Colombia, Haiti, Malawi, Nigeria, Peru, and Venezuela.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My graduate studies are supported by a National Science Foundation Graduate Research Fellowship. Individual projects have benefitted from generous support from NSF, USAID, EGAP/DFID, J-PAL, the Columbia Institute for Latin American Studies (ILAS), the Center for the Study of Development Strategies (CSDS), and the Columbia Department of Political Science. I am a Steering Committee member (PI) in the current [Metaketa-III Natural Resource Governance](http://egap.org/metaketa/metaketa-iii-natural-resource-governance), overseeing coordinated studies in six countries in Latin America, Africa, and Asia.
+
+Before graduate school, I was a professional violinist. I earned both a BM in Violin Performance and a BA in Political Science from Rice University in 2012. After graduating, I worked as a violin teacher and strings coach for [Fundación Nacional Batuta](https://www.fundacionbatuta.org/) all over Bogotá, Colombia. I continue to explore lesser-played works in the solo (unaccompanied) violin repertoire and give the occasional house concert.
