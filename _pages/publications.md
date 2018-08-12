@@ -32,7 +32,7 @@ Public Policy Under Limited State Capacity: Evidence from Deforestation Control 
 <h4> working papers</h4>
 <h4 class="year">{{2018}}</h4>
 
-"Bureaucrats Driving Bias in Access: Experimental Evidence from Colombia" (job market paper).
+"Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia" (job market paper).
 
 "A Model of Bureaucratic Hiring in Plural Societies."
 
