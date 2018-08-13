@@ -6,13 +6,14 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 ---
 
 <section>
-  <h4>at Columbia, as Teaching Assistant</h4> <a href="https://taraslough.github.io/assets/pdf/Course_evals.pdf"  target="_blank"> [evaluations]</a>
+  <h4>at Columbia, as Teaching Assistant</h4>
   <ul>
   <li><strong>POLS W4209: Game Theory and Political Theory</strong>, (Professor John Huber, Spring 2016). This is the first course in the Ph.D. formal theory sequence.</li>
   <li><strong>POLS W4912: Multivariate Political Analysis</strong>, (Professor Benjamin Goodrich, Fall 2015). This is the first course in the Ph.D. statistical methods sequence.</li>
   <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>, (Professor: Greg Wawro, Spring 2015). This is the second course in the Ph.D. statistical methods sequence.</li>
   <li> <strong> POLS W4360: Math Methods for Political Science </strong> (Professor: Johannes Urpelainen, Fall 2014). This is a semester-long math refresher/intensive for incoming Ph.D. students. </li>  
   </ul>
+  <a href="https://taraslough.github.io/assets/pdf/Compiled_evals.pdf"  target="_blank"> [evaluations]</a>
 </section>
 
 <section>
