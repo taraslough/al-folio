@@ -18,7 +18,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Columbia, as Instructor</h4>
   <ul>
-  <li> <strong> Math Camp: Math Refresher Cours for Incoming PhD students </strong> (August 2017 and 2018). My teaching includes a redesign of "Math Camp" for August 2018. </li>
+  <li> <strong> Math Camp: Math Refresher Course for Incoming PhD students </strong> (August 2017 and 2018). My teaching includes a redesign of "Math Camp" for August 2018. </li>
   </ul>
 </section>
 
