@@ -6,7 +6,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 ---
 
 <section>
-  <h4>at Columbia, as Teaching Assistant</h4>
+  <h4>at Columbia, as Teaching Assistant</h4> <a href="https://taraslough.github.io/assets/pdf/Course_evals.pdf"  target="_blank"> [evaluations]</a>
   <ul>
   <li><strong>POLS W4209: Game Theory and Political Theory</strong>, (Professor John Huber, Spring 2016). This is the first course in the Ph.D. formal theory sequence.</li>
   <li><strong>POLS W4912: Multivariate Political Analysis</strong>, (Professor Benjamin Goodrich, Fall 2015). This is the first course in the Ph.D. statistical methods sequence.</li>
