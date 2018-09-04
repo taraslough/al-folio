@@ -33,28 +33,28 @@ Public Policy Under Limited State Capacity: Evidence from Deforestation Control 
 <a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
 "  target="_blank"> [appendix]</a>
 
-<h4> working papers</h4>
-<h4 class="year">{{2018}}</h4>
 
-"A Model of Bureaucratic Hiring in Plural Societies."
-
-"Rewards for Programmatic Reforms? Re-Assessing the Electoral Effects of Mexico's Progresa Conditional Cash Transfer Program." With Horacio Larreguy and John Marshall.
-
-<h4> works in progress </h4>
+<h4> select works in progress </h4>
 
 <h4 class="year">{{2018}}</h4>
-
-"The  Distributive  Consequences  of  Bureaucratic  Discretion”
-
-“A  Model  of  Bureaucrats  and  Retrospective  Electoral  Accountability"
-
-"Endogenous Units of Analysis."
-
-"Heterogeneous Treatments: Limits to Inference and Advice for Experimental Design." With Christopher Fariss. (first author)
 
 "Metaketa-III: Natural Resource Governance Meta-Analysis Pre-Analysis Plan." With Miriam Golden, Donald Green, Daniel Nielson, and Daniel Ruebenson. <a href="http://egap.org/registration/2815"  target="_blank"> [pre-analysis plan]</a>
 
 "Community Monitoring and Technology Transfer to Prevent Deforestation: A Field Experiment in the Peruvian Amazon." 2018. With Jacob Kopas and Johannes Urpelainen. <a href="http://egap.org/registration/2822"  target="_blank"> [pre-analysis plan]</a>
+
+"A Model of Bureaucratic Hiring in Plural Societies." [presented MPSA 2018, APSA 2018]
+
+"Heterogeneous Treatments: Limits to Inference and Advice for Experimental Design." With Christopher Fariss. (first author) [presented APSA 2018]
+
+"Rewards for Programmatic Reforms? Re-Assessing the Electoral Effects of Mexico's Progresa Conditional Cash Transfer Program." With Horacio Larreguy and John Marshall.
+
+
+
+
+
+
+
+
 
 
 <h3> peer-reviewed publications </h3>
