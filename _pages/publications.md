@@ -9,7 +9,7 @@ years: [1956, 1950, 1935, 1905]
 
 <h4> job market paper </h4>
 <h4 class="year">{{2018}}</h4>
-"Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a>
+"Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/JMP_appendix.pdf"  target="_blank"> [appendix]</a>
 
 <h4> revision invited</h4>
 
