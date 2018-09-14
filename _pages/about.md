@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Tara </strong>Slough
-description: <a href="">Ph.D. Candidate, Columbia University</a>
+description: <a href="">Ph.D. Candidate, Columbia University<br> Predoctoral Fellow, UC Berkeley</a>
 
 profile:
   align: right
@@ -14,7 +14,7 @@ news: false
 social: true
 ---
 
-I am a Ph.D. Candidate in Political Science at Columbia University. I study comparative politics, quantitative methods, and political economy (formal theory).
+I am a Ph.D. Candidate in Political Science at Columbia University and a Predoctoral Fellow at the University of California at Berkeley. I study comparative politics, quantitative methods, and political economy (formal theory).
 
 I write on the political economy of institutions and development. My dissertation focuses on the distributive politics of the bureaucracy with application to low- and middle-income democracies. I have conducted fieldwork in Argentina, Colombia, Haiti, Malawi, Nigeria, Peru, and Venezuela.
 
