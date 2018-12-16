@@ -8,10 +8,10 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Columbia, as Teaching Assistant</h4>
   <ul>
-  <li><strong>POLS W4209: Game Theory and Political Theory</strong>, (Professor John Huber, Spring 2016). This is the first course in the Ph.D. formal theory sequence.</li>
-  <li><strong>POLS W4912: Multivariate Political Analysis</strong>, (Professor Benjamin Goodrich, Fall 2015). This is the first course in the Ph.D. statistical methods sequence.</li>
-  <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>, (Professor Greg Wawro, Spring 2015). This is the second course in the Ph.D. statistical methods sequence.</li>
-  <li> <strong> POLS W4360: Math Methods for Political Science </strong> (Professor Johannes Urpelainen, Fall 2014). This is a semester-long math refresher/intensive for incoming Ph.D. students. </li>  
+  <li><strong>POLS W4209: Game Theory and Political Theory</strong>. Graduate level, Spring 2016.</li>
+  <li><strong>POLS W4912: Multivariate Political Analysis</strong>. Graduate level, Fall 2015.</li>
+  <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>. Graduate level, Spring 2015.</li>
+  <li> <strong> POLS W4360: Math Methods for Political Science</strong>. Graduate level, Fall 2014. </li>  
   </ul>
 
 </section>
@@ -19,7 +19,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Columbia, as Instructor</h4>
   <ul>
-  <li> <strong> Math Camp: Math Refresher Course for Incoming PhD students </strong> (August 2017 and 2018). My teaching includes a redesign of "Math Camp" for August 2018. </li>
+  <li> <strong> Math Camp: Math Refresher Course for Incoming PhD students</strong>. August 2017 and 2018.</li>
   </ul>
 </section>
 
