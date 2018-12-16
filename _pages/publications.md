@@ -7,9 +7,6 @@ years: [1956, 1950, 1935, 1905]
 ---
 <h3> working papers, works in progress</h3>
 
-<h4> job market paper </h4>
-<h4 class="year">{{2018}}</h4>
-"Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/JMP_appendix.pdf"  target="_blank"> [appendix]</a>
 
 <h4> revision invited</h4>
 
@@ -17,12 +14,14 @@ years: [1956, 1950, 1935, 1905]
 Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen.  Revise and resubmit, <i>American Journal of Political Science</i>. <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
 
-"A Dynamic Model of Primaries." With Erin York and Michael Ting. Revise and resubmit, <i>Journal of Politics</i>.<a href="https://taraslough.github.io/assets/pdf/DP.pdf
+"A Dynamic Model of Primaries." With Erin York and Michael Ting. Revised and resubmitted to <i>Journal of Politics</i>.<a href="https://taraslough.github.io/assets/pdf/DP.pdf
 "  target="_blank"> [paper]</a>
 
 
-<h4> under review</h4>
+<h4> working papers</h4>
 <h4 class="year">{{2018}}</h4>
+"Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/JMP_appendix.pdf"  target="_blank"> [appendix]</a>
+
 "Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss. (first-authored) <a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf
 "  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf

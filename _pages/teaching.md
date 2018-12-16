@@ -13,7 +13,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
   <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>, (Professor Greg Wawro, Spring 2015). This is the second course in the Ph.D. statistical methods sequence.</li>
   <li> <strong> POLS W4360: Math Methods for Political Science </strong> (Professor Johannes Urpelainen, Fall 2014). This is a semester-long math refresher/intensive for incoming Ph.D. students. </li>  
   </ul>
-  <a href="https://taraslough.github.io/assets/pdf/Compiled_evals.pdf"  target="_blank"> [evaluations]</a>
+
 </section>
 
 <section>
@@ -39,7 +39,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <strong>Academic Collaborator, USAID DRG Impact Evaluation Clinic</strong>. Arlington, Virginia. February 2016. Workshop for USAID Democracy, Human Rights, and Governance (DRG) staff.
 </li>
 <li>
-<a href="https://usaidlearninglab.org/lab-notes/evaluating-and-learning-usaid-democracy%2C-human-rights%2C-and-governance-programming"  target="_blank"><strong>Academic Collaborator, USAID DRG Impact Evaluation Clinic.</strong></a>. Dar es Salaam, Tanzania. March 2015. Workshop for USAID Democracy, Human Rights, and Governance (DRG) staff.
+<a href="https://usaidlearninglab.org/lab-notes/evaluating-and-learning-usaid-democracy%2C-human-rights%2C-and-governance-programming"  target="_blank"><strong>Academic Collaborator, USAID DRG Impact Evaluation Clinic.</strong></a> Dar es Salaam, Tanzania. March 2015. Workshop for USAID Democracy, Human Rights, and Governance (DRG) staff.
 </li>
   </ul>
 </section>
