@@ -13,7 +13,7 @@ profile:
 news: false
 social: true
 ---
-I am a Ph.D. Candidate in Political Science at Columbia University and a Predoctoral Fellow at the University of California, Berkeley. Starting in Fall 2020, I will be an Assistant Professor of Politics at New York University.
+I am a Ph.D. Candidate in Political Science at Columbia University and a Predoctoral Fellow at the University of California, Berkeley. In 2020, I will join New York University as Assistant Professor of Politics.
 
 I write on the political economy of institutions and development. My dissertation focuses on the distributive politics of the bureaucracy with application to low- and middle-income democracies. I have conducted fieldwork in Argentina, Colombia, Haiti, Malawi, Nigeria, Peru, and Venezuela.
 
