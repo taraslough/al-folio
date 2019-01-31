@@ -26,6 +26,9 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Research Design Workshops for Academics and Practitioners</h4>
   <ul>
+    <li>
+  <a href="https://egap.org/content/egap-learning-days-9"  target="_blank"><strong>Instructor, EGAP Learning Days 10</strong></a>. Universidad de los Andes, Bogotá, Colombia. April 2019 (scheduled). Course for PIs from Latin America.
+ </li>
   <li>
   <a href="https://egap.org/content/egap-learning-days-9"  target="_blank"><strong>Instructor, EGAP Learning Days 9</strong></a>. Universidad Católica del Uruguay, Montevideo, Uruguay. February 2018. Course for PIs from Latin America.
  </li>
