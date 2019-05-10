@@ -8,11 +8,12 @@ years: [1956, 1950, 1935, 1905]
 <h3> working papers, works in progress</h3>
 
 
-<h4> revision invited</h4>
-<h4 class="year">{{2019}}</h4>
-"A Dynamic Model of Primaries." With Erin York and Michael Ting. Conditionally accepted, <i>Journal of Politics</i>.<a href="https://taraslough.github.io/assets/pdf/DP.pdf
-"  target="_blank"> [paper]</a>
+<h4> revision invited and forthcoming </h4>
+<h4 class="year">{{2020}}</h4>
+"A Dynamic Model of Primaries." With Erin York and Michael Ting. Forthcoming, <i>Journal of Politics</i>.<a href="https://taraslough.github.io/assets/pdf/DP.pdf
 
+"  target="_blank"> [paper]</a>
+<h4 class="year">{{2019}}</h4>
 Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen.  Revised and resubmitted to <i>American Journal of Political Science</i>. <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
 
