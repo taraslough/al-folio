@@ -13,9 +13,6 @@ years: [1956, 1950, 1935, 1905]
 "A Dynamic Model of Primaries." With Erin York and Michael Ting. Forthcoming, <i>Journal of Politics</i>.<a href="https://taraslough.github.io/assets/pdf/DP.pdf"  target="_blank"> [paper]</a>
 
 <h4 class="year">{{2019}}</h4>
-Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen.  Revised and resubmitted to <i>American Journal of Political Science</i>. <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
-<a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
-
 "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. Revise and resubmit, <i>American Journal of Political Science. </i><a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
 "  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
@@ -31,6 +28,9 @@ Public Policy Under Limited State Capacity: Evidence from Deforestation Control 
 "  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf
 "  target="_blank"> [appendix]</a>
+
+Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen. <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
+<a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
 
 
 
