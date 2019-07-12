@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Tara </strong>Slough
-description: <a href="">Ph.D. Candidate, Columbia University<br> Predoctoral Fellow, UC Berkeley<br>Visiting Scholar, NYU</a>
+description: <a href="">Ph.D. Candidate, Columbia University<br> Predoctoral Fellow, UC Berkeley<br>Visiting Scholar, New York University</a>
 
 profile:
   align: right
