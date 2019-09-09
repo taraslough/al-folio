@@ -18,16 +18,14 @@ years: [1956, 1950, 1935, 1905]
 <a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
 "  target="_blank"> [appendix]</a>
 
-
+"Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss.  Revise and resubmit, <i>American Journal of Political Science. </i><a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf
+"  target="_blank"> [paper]</a>
+<a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf
+"  target="_blank"> [appendix]</a>
 
 <h4> working papers</h4>
 <h4 class="year">{{2019}}</h4>
 "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/JMP_appendix.pdf"  target="_blank"> [appendix]</a>
-
-"Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss. (first-authored) <a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf
-"  target="_blank"> [paper]</a>
-<a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf
-"  target="_blank"> [appendix]</a>
 
 Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  With Johannes Urpelainen. <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
