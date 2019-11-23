@@ -15,7 +15,7 @@ years: [1956, 1950, 1935, 1905]
 <h4 class="year">{{2019}}</h4>
 
 
-"Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss.  Revise and resubmit, <i>American Journal of Political Science. </i><a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf
+"Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent." With Christopher Fariss.  Conditionally accepted, <i>American Journal of Political Science. </i><a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf
 "  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf
 "  target="_blank"> [appendix]</a>
@@ -23,6 +23,11 @@ years: [1956, 1950, 1935, 1905]
 <h4> working papers</h4>
 <h4 class="year">{{2019}}</h4>
 "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/JMP_appendix.pdf"  target="_blank"> [appendix]</a>
+
+"On Theory and Identification: When and Why We Need Theory for Causal Identification" <a href="https://taraslough.github.io/assets/pdf/theory_id.pdf"  target="_blank"> [paper]</a>
+
+"The Ethics of Electoral Experimentation: Design-Based Recommendations" <a href="https://taraslough.github.io/assets/pdf/eee.pdf"  target="_blank"> [paper]</a>
+
 
 "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. <a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
 "  target="_blank"> [paper]</a>
@@ -34,19 +39,15 @@ Public Policy Under Limited State Capacity: Evidence from Deforestation Control 
 
 
 
-<h4> select works in progress </h4>
+<h4> field-based projects in progress </h4>
 
 <h4 class="year">{{2019}}</h4>
 
-"Metaketa-III: Natural Resource Governance Meta-Analysis Pre-Analysis Plan." With Miriam Golden, Donald Green, Daniel Nielson, and Daniel Ruebenson. <a href="http://egap.org/registration/2815"  target="_blank"> [pre-analysis plan]</a>
+"Metaketa-III: Natural Resource Governance Meta-Analysis Pre-Analysis Plan." With Daniel Ruebenson. <a href="http://egap.org/registration/2815"  target="_blank"> [pre-analysis plan]</a>
 
 "Community Monitoring and Technology Transfer to Prevent Deforestation: A Field Experiment in the Peruvian Amazon." With Jacob Kopas and Johannes Urpelainen. <a href="http://egap.org/registration/2822"  target="_blank"> [pre-analysis plan]</a>
 
-"A Model of Bureaucratic Hiring in Plural Societies." [presented at MPSA 2018 and APSA 2018]
-
-"Heterogeneous Treatments: Limits to Inference and Advice for Experimental Design." With Christopher Fariss. (first author) [presented APSA 2018]
-
-
+"The Construction of Trust in the State: Evidence from Police-Community Relations in Colombia." With Eric Arias, Rebecca Hanson, and Dorothy Kronick. <a href="http://egap.org/registration/5878"  target="_blank"> [pre-analysis plan]</a>
 
 
 
