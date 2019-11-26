@@ -43,7 +43,7 @@ Public Policy Under Limited State Capacity: Evidence from Deforestation Control 
 
 <h4 class="year">{{2019}}</h4>
 
-"Metaketa-III: Natural Resource Governance Meta-Analysis Pre-Analysis Plan." With Daniel Ruebenson. <a href="http://egap.org/registration/2815"  target="_blank"> [pre-analysis plan]</a>
+"Metaketa-III: Natural Resource Governance Meta-Analysis Pre-Analysis Plan." With Daniel Rubenson. <a href="http://egap.org/registration/2815"  target="_blank"> [pre-analysis plan]</a>
 
 "Community Monitoring and Technology Transfer to Prevent Deforestation: A Field Experiment in the Peruvian Amazon." With Jacob Kopas and Johannes Urpelainen. <a href="http://egap.org/registration/2822"  target="_blank"> [pre-analysis plan]</a>
 
