@@ -21,7 +21,7 @@ Slough, Tara, Erin York, and Michael M. Ting. "A Dynamic Model of Primaries." Fo
 
 <h4> working papers</h4>
 <h4 class="year">{{2019}}</h4>
-Slough, Tara. "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/JMP.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/JMP_appendix.pdf"  target="_blank"> [appendix]</a>
+Slough, Tara. "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/colombia_audit.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/colombia_audit_appendix.pdf"  target="_blank"> [appendix]</a>
 
 Slough, Tara. "On Theory and Identification: When and Why We Need Theory for Causal Identification" <a href="https://taraslough.github.io/assets/pdf/theory_id.pdf"  target="_blank"> [paper]</a>
 
