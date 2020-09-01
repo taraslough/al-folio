@@ -10,7 +10,7 @@ years: [1956, 1950, 1935, 1905]
 
 <h4> publications </h4>
 <h4 class="year">{{2020}}</h4>
-Slough, Tara and Christopher Fariss. "Misgovernance and Human Rights: Experimental Evidence of Illegal Detention without Intent."  <i>American Journal of Political Science, </i> Forthcoming.
+Slough, Tara and Christopher Fariss. "Misgovernance and Human Rights: The Case of Illegal Detention without Intent."  <i>American Journal of Political Science, </i> Forthcoming.
 <a href="https://doi.org/10.1111/ajps.12529"  target="_blank"> [journal]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf"  target="_blank"> [pre-print]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf"  target="_blank"> [pre-print appendix]</a>
