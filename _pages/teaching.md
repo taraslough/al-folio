@@ -18,10 +18,10 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Columbia, as Teaching Assistant</h4>
   <ul>
-  <li><strong>POLS W4209: Game Theory and Political Theory</strong>. Graduate level, 2016.</li>
-  <li><strong>POLS W4912: Multivariate Political Analysis</strong>. Graduate level, 2015.</li>
-  <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>. Graduate level, 2015.</li>
-  <li> <strong> POLS W4360: Math Methods for Political Science</strong>. Graduate level, 2014. </li>  
+  <li><strong>Game Theory and Political Theory</strong>. Graduate level, 2016.</li>
+  <li><strong>Multivariate Political Analysis</strong>. Graduate level, 2015.</li>
+  <li><strong>Advanced Topics in Quantitative Research</strong>. Graduate level, 2015.</li>
+  <li> <strong>Math Methods for Political Science</strong>. Graduate level, 2014. </li>  
   </ul>
 
 </section>
@@ -37,7 +37,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
   <h4>at Research Design Workshops for Academics and Practitioners</h4>
   <ul>
   <li>
-  <a href="http://egap.org/content/learning-days-11-benin-design-development-workshop-pis"  target="_blank"><strong>Instructor, EGAP Learning Days 11</strong></a>. African School of Economics, Abomey-Calavi, Benin. June 2019 (scheduled). Course for PIs from Sub-Saharan Africa.
+  <a href="http://egap.org/content/learning-days-11-benin-design-development-workshop-pis"  target="_blank"><strong>Instructor, EGAP Learning Days 11</strong></a>. African School of Economics, Abomey-Calavi, Benin. June 2019. Course for PIs from Sub-Saharan Africa.
  </li>
     <li>
   <a href="https://egap.org/content/learning-days-10-bogotá-design-development-workshop-pis"  target="_blank"><strong>Instructor, EGAP Learning Days 10</strong></a>. Universidad de los Andes, Bogotá, Colombia. April 2019. Course for PIs from Latin America.
