@@ -6,12 +6,22 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 ---
 
 <section>
+  <h4>at NYU</h4>
+  <ul>
+  <li><strong>Introduction to Research Methods for Politics</strong>. Undergraduate lecture, Fall 2020.</li>
+  <li><strong>Inequality</strong>. Graduate seminar, Spring 2021.</li>
+  </ul>
+
+</section>
+
+
+<section>
   <h4>at Columbia, as Teaching Assistant</h4>
   <ul>
-  <li><strong>POLS W4209: Game Theory and Political Theory</strong>. Graduate level, Spring 2016.</li>
-  <li><strong>POLS W4912: Multivariate Political Analysis</strong>. Graduate level, Fall 2015.</li>
-  <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>. Graduate level, Spring 2015.</li>
-  <li> <strong> POLS W4360: Math Methods for Political Science</strong>. Graduate level, Fall 2014. </li>  
+  <li><strong>POLS W4209: Game Theory and Political Theory</strong>. Graduate level, 2016.</li>
+  <li><strong>POLS W4912: Multivariate Political Analysis</strong>. Graduate level, 2015.</li>
+  <li><strong>POLS W4291: Advanced Topics in Quantitative Research</strong>. Graduate level, 2015.</li>
+  <li> <strong> POLS W4360: Math Methods for Political Science</strong>. Graduate level, 2014. </li>  
   </ul>
 
 </section>
@@ -19,7 +29,7 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Columbia, as Instructor</h4>
   <ul>
-  <li> <strong> Math Camp: Math Refresher Course for Incoming PhD students</strong>. August 2017 and 2018.</li>
+  <li> <strong> Math Camp: Math Refresher Course for Incoming PhD students</strong>. 2017 and 2018</li>
   </ul>
 </section>
 
