@@ -37,11 +37,11 @@ Slough, Tara. "Bureaucratic Quality and the Observability of Electoral Accountab
 
 Slough, Tara. "Oversight, Capacity, and Inequality."
 
-Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts."
+Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts." (R&R)
 
-Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts facilitate community monitoring in the Peruvian Amazon."
+Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts facilitate community monitoring in the Peruvian Amazon." (R&R)
 
-Margalit, Yotam, Tara Slough, and Michael M. Ting. "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. <a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
+Margalit, Yotam, Tara Slough, and Michael M. Ting. "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. (R&R) <a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
 "  target="_blank"> [paper]</a>
 <a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
 "  target="_blank"> [appendix]</a>
