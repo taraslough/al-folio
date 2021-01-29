@@ -31,7 +31,7 @@ Slough, Tara. "Bureaucrats Driving Inequality in Access: Experimental Evidence f
 
 Slough, Tara. "On Theory and Identification: When and Why We Need Theory for Causal Identification" <a href="https://taraslough.github.io/assets/pdf/theory_id.pdf"  target="_blank"> [paper]</a>
 
-Slough, Tara. "The Ethics of Electoral Experimentation: Design-Based Recommendations" <a href="https://taraslough.github.io/assets/pdf/eee.pdf"  target="_blank"> [paper]</a>
+Slough, Tara. "The Ethics of Electoral Experimentation: Design-Based Recommendations" (R&R) <a href="https://taraslough.github.io/assets/pdf/eee.pdf"  target="_blank"> [paper]</a>
 
 Slough, Tara. "Bureaucratic Quality and the Observability of Electoral Accountability."
 
