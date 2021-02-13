@@ -9,12 +9,17 @@ years: [1956, 1950, 1935, 1905]
 
 
 <h4> publications </h4>
-<h4 class="year">{{2020}}</h4>
-Slough, Tara and Christopher Fariss. "Misgovernance and Human Rights: The Case of Illegal Detention without Intent."  <i>American Journal of Political Science, </i> Forthcoming.
+<h4 class="year">{{2021}}</h4>
+Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts." Forthcoming, <i>Proceedings of the National Academy of Sciences</i>. [currently embargoed]
+
+Slough, Tara and Christopher Fariss. "Misgovernance and Human Rights: The Case of Illegal Detention without Intent."  <i>American Journal of Political Science, </i> 65(1): 148-165.
 <a href="https://doi.org/10.1111/ajps.12529"  target="_blank"> [journal]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf"  target="_blank"> [pre-print]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_appendix.pdf"  target="_blank"> [pre-print appendix]</a>
 <a href="https://doi.org/10.7910/DVN/Q5PV4U"  target="_blank"> [replication]</a>
+
+
+<h4 class="year">{{2020}}</h4>
 
 Slough, Tara, Erin York, and Michael M. Ting. "A Dynamic Model of Primaries." <i>Journal of Politics</i>. 82(4).
 <a href="https://doi.org/10.1086/708505"  target="_blank"> [journal]</a> 
@@ -36,8 +41,6 @@ Slough, Tara. "The Ethics of Electoral Experimentation: Design-Based Recommendat
 Slough, Tara. "Bureaucratic Quality and the Observability of Electoral Accountability."
 
 Slough, Tara. "Oversight, Capacity, and Inequality."
-
-Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts." (R&R)
 
 Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts facilitate community monitoring in the Peruvian Amazon." (R&R)
 
