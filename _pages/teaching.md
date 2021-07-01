@@ -8,23 +8,16 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at NYU</h4>
   <ul>
-  <li><strong>Introduction to Research Methods for Politics</strong>. Undergraduate lecture, Fall 2020.</li>
+  <li><strong>Introduction to Comparative Politics</strong>. Undergraduate lecture, Spring 2022 (scheduled).</li>
+  <li><strong>Quant III</strong>. Graduate methods, Fall 2021 (scheduled).</li>
   <li><strong>Inequality</strong>. Graduate seminar, Spring 2021.</li>
+  <li><strong>Introduction to Research Methods for Politics</strong>. Undergraduate lecture, Fall 2020.</li>
   </ul>
 
 </section>
 
 
-<section>
-  <h4>at Columbia, as Teaching Assistant</h4>
-  <ul>
-  <li><strong>Game Theory and Political Theory</strong>. Graduate level, 2016.</li>
-  <li><strong>Multivariate Political Analysis</strong>. Graduate level, 2015.</li>
-  <li><strong>Advanced Topics in Quantitative Research</strong>. Graduate level, 2015.</li>
-  <li> <strong>Math Methods for Political Science</strong>. Graduate level, 2014. </li>  
-  </ul>
-
-</section>
+ 
 
 <section>
   <h4>at Columbia, as Instructor</h4>
@@ -36,6 +29,8 @@ description: Please <a href="mailto:tls2145@columbia.edu">email me</a> for sylla
 <section>
   <h4>at Research Design Workshops for Academics and Practitioners</h4>
   <ul>
+    <li>
+ <strong>Instructor, EGAP Learning Days Virtual Refresher Course</strong>.  August 2021 (scheduled). </li>
   <li>
   <a href="http://egap.org/content/learning-days-11-benin-design-development-workshop-pis"  target="_blank"><strong>Instructor, EGAP Learning Days 11</strong></a>. African School of Economics, Abomey-Calavi, Benin. June 2019. Course for PIs from Sub-Saharan Africa.
  </li>

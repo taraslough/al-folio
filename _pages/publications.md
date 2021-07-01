@@ -12,6 +12,13 @@ years: [1956, 1950, 1935, 1905]
 <h4 class="year">{{2021}}</h4>
 Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts." Forthcoming, <i>Proceedings of the National Academy of Sciences</i>. [currently embargoed]
 
+Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts with training and incentives for patrolling facilitate community monitoring in the Peruvian Amazon." Forthcoming, <i>Proceedings of the National Academy of Sciences</i>. [currently embargoed]
+
+Margalit, Yotam, Tara Slough, and Michael M. Ting. "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. Conditionally accepted, <i>Political Science Research and Methods</i>. <a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
+"  target="_blank"> [paper]</a>
+<a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
+"  target="_blank"> [appendix]</a>
+
 Slough, Tara and Christopher Fariss. "Misgovernance and Human Rights: The Case of Illegal Detention without Intent."  <i>American Journal of Political Science, </i> 65(1): 148-165.
 <a href="https://doi.org/10.1111/ajps.12529"  target="_blank"> [journal]</a>
 <a href="https://taraslough.github.io/assets/pdf/Haiti_paper.pdf"  target="_blank"> [pre-print]</a>
@@ -32,40 +39,32 @@ Slough, Tara, Erin York, and Michael M. Ting. "A Dynamic Model of Primaries." <i
 
 <h4> working papers</h4>
 <h4 class="year">{{2020}}</h4>
-Slough, Tara. "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." <a href="https://taraslough.github.io/assets/pdf/colombia_audit.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/colombia_audit_appendix.pdf"  target="_blank"> [appendix]</a>
+Slough, Tara. "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." (R&R) <a href="https://taraslough.github.io/assets/pdf/colombia_audit.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/colombia_audit_appendix.pdf"  target="_blank"> [appendix]</a> 
 
-Slough, Tara. "On Theory and Identification: When and Why We Need Theory for Causal Identification" <a href="https://taraslough.github.io/assets/pdf/theory_id.pdf"  target="_blank"> [paper]</a>
+Slough, Tara. "Oversight, Capacity, and Inequality." <a href="https://taraslough.github.io/assets/pdf/oci.pdf"  target="_blank"> [paper]</a>
 
-Slough, Tara. "The Ethics of Electoral Experimentation: Design-Based Recommendations" (R&R) <a href="https://taraslough.github.io/assets/pdf/eee.pdf"  target="_blank"> [paper]</a>
+Slough, Tara. "On Theory and Identification: When and Why We Need Theory for Causal Identification" <a href="https://taraslough.github.io/assets/pdf/theory_id.pdf"  target="_blank"> [paper]</a> <a href="https://taraslough.github.io/assets/pdf/theory_id_appendix.pdf"  target="_blank"> [appendix]</a>
+
+Slough, Tara. "The Ethics of Electoral Experimentation: Design-Based Recommendations" (R&R) <a href="https://taraslough.github.io/assets/pdf/eee.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/eee_appendix.pdf"  target="_blank"> [paper]</a>
 
 Slough, Tara. "Bureaucratic Quality and the Observability of Electoral Accountability."
 
-Slough, Tara. "Oversight, Capacity, and Inequality."
+Slough, Tara and Scott A. Tyson. "External Validity and Comparability in Meta-Studies."
 
-Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts facilitate community monitoring in the Peruvian Amazon." (R&R)
+Blair, Graeme, Jeremy Weinstein, and 21 others. ``Does Community Policing Build Trust in Police and Reduce Crime? Evidence from Six Coordinated Field Experiments in the Global South.'' (R&R)
 
-Margalit, Yotam, Tara Slough, and Michael M. Ting. "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. (R&R) <a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
-"  target="_blank"> [paper]</a>
-<a href="https://taraslough.github.io/assets/pdf/RtL_appendix.pdf
-"  target="_blank"> [appendix]</a>
+Grossman, Guy and Tara Slough. "Government Responsiveness in Developing Countries." Prepared for the <i>Annual Review of Political Science.</i> <a href="https://taraslough.github.io/assets/pdf/arps.pdf"  target="_blank"> [paper]</a>
 
-Slough, Tara and Johannes Urpelainen. "Public Policy Under Limited State Capacity: Evidence from Deforestation Control in the Brazilian Amazon."  <a href="https://taraslough.github.io/assets/pdf/Deforest_paper.pdf"  target="_blank"> [paper]</a>
-<a href="https://taraslough.github.io/assets/pdf/Deforest_appendix.pdf"  target="_blank"> [appendix]</a>
 
 Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. "Does Community Policing Work? Evidence from Medellín." (chapter for edited volume)
 
 
    <br>
    
-   
-<h4> in preparation </h4>
-
-<h4 class="year">{{2021}}</h4>
-
-Grossman, Guy and Tara Slough. " Political Accountability and Government Responsiveness in Developing Countries." In preparation for <i>Annual Review of Political Science.</i>
 
 
-   <br>
+
+
 
 
 <h4> policy reports</h4>
@@ -95,6 +94,11 @@ Carnegie, Allison and Tara Slough. "The Promises and Pitfalls of Dyadic Data." <
 
 
 <h4> peer-reviewed publications in other fields </h4>
+
+<h4 class="year">{{2021}}</h4>
+Peng, Kaiyan, Christian Parkinson, Andrea L. Bertozzi, Tara Lyn Slough & Johannes Urpelainen . "Modeling illegal logging in Brazil." <i>Research in the Mathematical Sciences</i>, 8(29).  <a href="https://link.springer.com/article/10.1007/s40687-021-00263-6">[gated]</a>
+
+
 <h4 class="year">{{2015}}</h4>
 Slough, Tara, Johannes Urpelainen, and Joonseok Yang. "Light for All? Evaluating Brazil’s Rural Electrification Progress, 2000-2010." <i>Energy Policy</i>, 86(C): 315-327.  <a href="https://www.sciencedirect.com/science/article/pii/S0301421515300124#f0030"  target="_blank">[gated]</a>
 
