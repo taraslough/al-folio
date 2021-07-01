@@ -38,7 +38,7 @@ Slough, Tara, Erin York, and Michael M. Ting. "A Dynamic Model of Primaries." <i
 
 
 <h4> working papers</h4>
-<h4 class="year">{{2020}}</h4>
+<h4 class="year">{{2021}}</h4>
 Slough, Tara. "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia." (R&R) <a href="https://taraslough.github.io/assets/pdf/colombia_audit.pdf"  target="_blank"> [paper]</a><a href="https://taraslough.github.io/assets/pdf/colombia_audit_appendix.pdf"  target="_blank"> [appendix]</a> 
 
 Slough, Tara. "Oversight, Capacity, and Inequality." <a href="https://taraslough.github.io/assets/pdf/oci.pdf"  target="_blank"> [paper]</a>
