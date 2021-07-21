@@ -10,9 +10,9 @@ years: [1956, 1950, 1935, 1905]
 
 <h4> publications </h4>
 <h4 class="year">{{2021}}</h4>
-Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts." Forthcoming, <i>Proceedings of the National Academy of Sciences</i>. [currently embargoed]
+Slough, Tara, Daniel Rubenson, Ro'ee Levy, and 16 others. "Adoption of Community Monitoring Improves Common Pool Resource Management Across Contexts."  <i>Proceedings of the National Academy of Sciences</i>, 118 (29) e2015367118. <a href="https://doi.org/10.1073/pnas.2015367118"  target="_blank"> [open access]</a> <a href="https://osf.io/knje7/"  target="_blank"> [replication]</a>
 
-Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts with training and incentives for patrolling facilitate community monitoring in the Peruvian Amazon." Forthcoming, <i>Proceedings of the National Academy of Sciences</i>. [currently embargoed]
+Slough, Tara, Jacob Kopas, and Johannes Urpelainen. "Satellite-based deforestation alerts with training and incentives for patrolling facilitate community monitoring in the Peruvian Amazon."  <i>Proceedings of the National Academy of Sciences</i>, 118 (29) e2015171118. <a href="https://doi.org/10.1073/pnas.2015171118"  target="_blank"> [open access]</a> <a href="https://osf.io/a4xz7/"  target="_blank"> [replication]</a>
 
 Margalit, Yotam, Tara Slough, and Michael M. Ting. "After Defeat: Governing Party Response to Loss." With Yotam Margalit and Michael Ting. Conditionally accepted, <i>Political Science Research and Methods</i>. <a href="https://taraslough.github.io/assets/pdf/RtL_paper.pdf
 "  target="_blank"> [paper]</a>
